@@ -1,0 +1,2 @@
+# fufufujijiji
+studying ruby
